@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand">
+  <!-- Substitua "LINK_DO_SEU_GIF_AQUI" pela URL do GIF que escolher -->
+  <img src="LINK_DO_SEU_GIF_AQUI" width="50px" alt="Meu GIF Animado">
   <h1>Hi there! I'm Pedro Gontijo</h1>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Unity+Developer;Shader+%26+VFX+Artist;3D+Generalist;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Unity+Developer;Shader+%26+VFX+Artist;Game+Dev;Always+Learning" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -39,7 +40,8 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HideOnChimes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Pedro Gontijo's GitHub Stats" />
+  <!-- URL ajustada para evitar timeouts da API -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HideOnChimes&show_icons=true&theme=tokyonight&hide_border=true" alt="Pedro Gontijo's GitHub Stats" />
 </div>
 
 <br/>
