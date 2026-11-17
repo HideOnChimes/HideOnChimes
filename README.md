@@ -33,4 +33,41 @@
 <!-- Animated icon grid. Add or remove tech in the URL (comma separated) after "i=" -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="
+    <img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github,vscode,bash&theme=dark" alt="My Skills" />
+  </a>
+</div>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HideOnChimes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Pedro Gontijo's GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HideOnChimes&theme=tokyonight&hide_border=true" alt="Consecutive days coding" />
+</div>
+
+---
+
+### 🏆 Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HideOnChimes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Pedro Gontijo's Trophies" />
+  </a>
+</div>
+
+---
+
+### 🐍 My Contributions
+<div align="center">
+  <!-- The snake image will appear broken until you set up the GitHub Action -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HideOnChimes/HideOnChimes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HideOnChimes/HideOnChimes/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HideOnChimes/HideOnChimes/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
