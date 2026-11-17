@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Substitua "LINK_DO_SEU_GIF_AQUI" pela URL do GIF que escolher -->
-  <img src="LINK_DO_SEU_GIF_AQUI" width="50px" alt="Meu GIF Animado">
+  <img src="https://tenor.com/view/pokemon-squirtle-sunglasses-deal-with-it-gif-5634922" width="50px" alt="Meu GIF Animado">
   <h1>Hi there! I'm Pedro Gontijo</h1>
 </div>
 
@@ -40,8 +39,9 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <!-- URL ajustada para evitar timeouts da API -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HideOnChimes&show_icons=true&theme=tokyonight&hide_border=true" alt="Pedro Gontijo's GitHub Stats" />
+  <a href="https://github.com/HideOnChimes">
+    <img src="https://github-readme-stats.vercel.app/api?username=HideOnChimes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Pedro Gontijo's GitHub Stats" />
+  </a>
 </div>
 
 <br/>
