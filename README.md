@@ -4,7 +4,6 @@
 </div>
 
 <div align="center">
-  <!-- Animated typing effect. You can change the phrases by editing the "lines=" text in the URL -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Unity+Developer;Shader+%26+VFX+Artist;3D+Generalist;Always+Learning" alt="Typing SVG" />
 </div>
 
@@ -22,7 +21,6 @@
 
 <br/>
 
-<!-- An animated GIF to break the ice. -->
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2130e588365921.5dd0e6f3b06aa.gif" alt="Animated Computer GIF" width="400"/>
 </div>
@@ -30,10 +28,9 @@
 ---
 
 ### 🛠️ My Tech Stack
-<!-- Animated icon grid. Add or remove tech in the URL (comma separated) after "i=" -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github,vscode,bash&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github,vscode,bash,py,js,postgres,mysql,supabase,firebase&theme=dark" alt="My Skills" />
   </a>
 </div>
 
@@ -53,18 +50,8 @@
 
 ---
 
-### 🏆 Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HideOnChimes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Pedro Gontijo's Trophies" />
-  </a>
-</div>
-
----
-
 ### 🐍 My Contributions
 <div align="center">
-  <!-- The snake image will appear broken until you set up the GitHub Action -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HideOnChimes/HideOnChimes/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HideOnChimes/HideOnChimes/output/github-contribution-grid-snake.svg">
