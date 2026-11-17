@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="50px" alt="Squirtle Animado">
+  <img src="https://media.tenor.com/f_a_q459n_EAAAAC/squirtle-pokemon.gif" width="120px" alt="Squirtle Deal With It">
   <h1>Hi there! I'm Pedro Gontijo</h1>
 </div>
 
@@ -39,9 +39,7 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/HideOnChimes">
-    <img src="https://github-readme-stats.vercel.app/api?username=HideOnChimes&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Pedro Gontijo's GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=HideOnChimes&show_icons=true&theme=tokyonight&hide_border=true&v=999" alt="Pedro Gontijo's GitHub Stats" />
 </div>
 
 <br/>
