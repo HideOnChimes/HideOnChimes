@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 372" width="440" height="372" role="img" aria-label="Unity Inspector style profile card">
+  <style>
+    text{font-family:Segoe UI,Ubuntu,Helvetica,Arial,sans-serif;font-size:12px;fill:#c4c4c4}
+    .h{font-weight:700;fill:#dcdcdc}
+    .f{fill:#2a2a2a;stroke:#212121}
+    .v{fill:#d2d2d2}
+    .dim{fill:#8a8a8a}
+    .ax{font-weight:700}
+    .rx{fill:#e0564f}.gy{fill:#8fd16a}.bz{fill:#5b9bf0}
+  </style>
+  <rect width="440" height="372" rx="6" fill="#383838" stroke="#1f1f1f"/>
+  <rect width="440" height="24" rx="6" fill="#2d2d2d"/>
+  <rect y="12" width="440" height="12" fill="#2d2d2d"/>
+  <rect x="6" y="3" width="92" height="21" fill="#383838"/>
+  <rect x="6" y="3" width="92" height="2" fill="#3a79bb"/>
+  <circle cx="20" cy="14" r="5.5" fill="none" stroke="#c4c4c4" stroke-width="1.3"/>
+  <rect x="19.3" y="11" width="1.4" height="1.6" fill="#c4c4c4"/><rect x="19.3" y="13.4" width="1.4" height="3.6" fill="#c4c4c4"/>
+  <text x="32" y="18">Inspector</text>
+
+  <path d="M22 40l11 6v12l-11 6-11-6V46z" fill="#5b8fd6" stroke="#9cc3f5" stroke-width="1"/>
+  <path d="M11 46l11 6 11-6M22 52v12" fill="none" stroke="#9cc3f5" stroke-width="1"/>
+  <rect x="44" y="34" width="14" height="14" rx="2" class="f"/>
+  <path d="M47 41l3 3 5-6" fill="none" stroke="#d2d2d2" stroke-width="1.6"/>
+  <rect x="64" y="33" width="300" height="17" rx="2" class="f"/>
+  <text x="70" y="45.5" class="v">Pedro Gontijo</text>
+  <text x="374" y="45.500" class="dim">Static ▾</text>
+  <text x="44" y="68">Tag</text><rect x="70" y="56" width="130" height="16" rx="2" fill="#515151"/><text x="76" y="68" class="v">Player</text><text x="188" y="68" class="dim">▾</text>
+  <text x="214" y="68">Layer</text><rect x="250" y="56" width="174" height="16" rx="2" fill="#515151"/><text x="256" y="68" class="v">GameDev</text><text x="412" y="68" class="dim">▾</text>
+
+  <rect y="82" width="440" height="22" fill="#3e3e3e"/><rect y="82" width="440" height="1" fill="#1f1f1f"/>
+  <text x="10" y="97" class="dim">▼</text>
+  <path d="M30 88v10M25 93h10" stroke="#8fd16a" stroke-width="1.4" fill="none"/>
+  <path d="M30 86l-2.500 3.500h5zM37 93l-3.500-2.500v5z" fill="#8fd16a"/>
+  <text x="44" y="97" class="h">Transform</text>
+  <text x="16" y="124">Position</text>
+  <text x="150" y="124" class="ax rx">X</text><rect x="162" y="112" width="70" height="16" rx="2" class="f"/><text x="167" y="124" class="v">-19.92</text>
+  <text x="242" y="124" class="ax gy">Y</text><rect x="254" y="112" width="70" height="16" rx="2" class="f"/><text x="259" y="124" class="v">-43.94</text>
+  <text x="334" y="124" class="ax bz">Z</text><rect x="346" y="112" width="78" height="16" rx="2" class="f"/><text x="351" y="124" class="v">0</text>
+  <text x="16" y="146">Scale</text>
+  <text x="150" y="146" class="ax rx">X</text><rect x="162" y="134" width="70" height="16" rx="2" class="f"/><text x="167" y="146" class="v">1</text>
+  <text x="242" y="146" class="ax gy">Y</text><rect x="254" y="134" width="70" height="16" rx="2" class="f"/><text x="259" y="146" class="v">1</text>
+  <text x="334" y="146" class="ax bz">Z</text><rect x="346" y="134" width="78" height="16" rx="2" class="f"/><text x="351" y="146" class="v">1</text>
+
+  <rect y="160" width="440" height="22" fill="#3e3e3e"/><rect y="160" width="440" height="1" fill="#1f1f1f"/>
+  <text x="10" y="175" class="dim">▼</text>
+  <rect x="23" y="164" width="14" height="14" rx="2" fill="#dcdcdc"/><text x="30" y="174.500" text-anchor="middle" style="font-size:9px;font-weight:700;fill:#2f7d32">C#</text>
+  <rect x="44" y="164" width="13" height="13" rx="2" class="f"/><path d="M47 170.500l2.600 2.600 4.400-5.200" fill="none" stroke="#d2d2d2" stroke-width="1.5"/>
+  <text x="64" y="175" class="h">Game Developer (Script)</text>
+  <text x="16" y="202" class="dim">Script</text><rect x="150" y="190" width="274" height="16" rx="2" fill="#2f2f2f" stroke="#212121"/><text x="156" y="202" class="dim">PedroGontijo.cs</text>
+  <text x="16" y="224">Engine</text><rect x="150" y="212" width="274" height="16" rx="2" fill="#515151"/><text x="156" y="224" class="v">Unity</text><text x="412" y="224" class="dim">▾</text>
+  <text x="16" y="246">Main Language</text><rect x="150" y="234" width="274" height="16" rx="2" fill="#515151"/><text x="156" y="246" class="v">C#</text><text x="412" y="246" class="dim">▾</text>
+  <text x="16" y="268">Speciality</text><rect x="150" y="256" width="274" height="16" rx="2" class="f"/><text x="156" y="268" class="v">Shaders &amp; VFX</text>
+  <text x="16" y="290">Also Uses</text><rect x="150" y="278" width="274" height="16" rx="2" class="f"/><text x="156" y="290" class="v">Blender, Python, SQL, Firebase</text>
+
+  <text x="16" y="312">Shader Graph</text>
+  <rect x="150" y="305" width="214" height="3" rx="1.5" fill="#5e5e5e"/><rect x="150" y="305" width="190" height="3" rx="1.5" fill="#3a79bb"/><rect x="336" y="300" width="8" height="13" rx="2" fill="#999999"/>
+  <rect x="374" y="298" width="50" height="16" rx="2" class="f"/><text x="379" y="310" class="v">0.9</text>
+  <text x="16" y="334">Coffee</text>
+  <rect x="150" y="327" width="214" height="3" rx="1.5" fill="#5e5e5e"/>
+  <rect x="150" y="327" width="60" height="3" rx="1.5" fill="#3a79bb"><animate attributeName="width" values="30;205;30" dur="7s" repeatCount="indefinite"/></rect>
+  <rect x="206" y="322" width="8" height="13" rx="2" fill="#999999"><animate attributeName="x" values="176;351;176" dur="7s" repeatCount="indefinite"/></rect>
+  <rect x="374" y="320" width="50" height="16" rx="2" class="f"/><text x="379" y="332" class="v">∞</text>
+  <rect x="140" y="346" width="160" height="18" rx="3" fill="#585858" stroke="#303030"/><text x="220" y="359" text-anchor="middle" class="v">Add Component</text>
+</svg>
